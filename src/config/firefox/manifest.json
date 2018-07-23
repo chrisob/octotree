@@ -11,6 +11,7 @@
   },
   "permissions": [
     "https://*.github.com/*",
+    "https://*.github.deutsche-boerse.de/*",
     "https://*.bitbucket.org/*",
     "storage"
   ],
@@ -19,6 +20,7 @@
     {
       "matches": [
         "https://github.com/*",
+        "https://github.deutsche-boerse.de/*",
         "https://bitbucket.org/*"
       ],
       "js": [
